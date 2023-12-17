@@ -10,8 +10,8 @@
 		"users": "node ./models/data/users.js",
 		"creators": "node ./models/data/creators.js",
 		"categories": "node ./models/data/categories.js",
-		"products": "node ./models/data/products.js",
-		"build": "build"
+		"products": "node ./models/data/products.js"
+		
 	},
 	"keywords": [],
 	"author": "",
