@@ -2,7 +2,7 @@
 	"name": "sports-shop-green-back",
 	"version": "1.0.0",
 	"description": "API's Sport Shop develop with Node.js, Express.js and MongoDB",
-	"main": "index.js",
+	"main": "server.js",
 	"type": "module",
 	"scripts": {
 		"start": "node ./server.js",
