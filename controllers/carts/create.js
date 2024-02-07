@@ -1,4 +1,4 @@
-import Cart from '../../models/Cart.js';
+import Cart from '../../Models/Cart.js';
 import Product from '../../Models/Product.js';
 
 export default async (req, res, next) => {
