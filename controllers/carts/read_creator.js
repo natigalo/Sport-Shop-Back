@@ -1,6 +1,6 @@
 import Product from '../../Models/Product.js';
 import Cart from '../../Models/Cart.js';
-import Creator from '../../models/Creator.js';
+import Creator from '../../Models/Creator.js';
 
 export default async (req, res, next) => {
     try {
