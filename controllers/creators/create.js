@@ -1,5 +1,5 @@
 import User from "../../Models/User.js";
-import Creator from "../../models/Creator.js";
+import Creator from "../../Models/Creator.js";
 
 export default async (req, res, next) => {
     try {
