@@ -1,4 +1,4 @@
-import State from "../../models/State.js";
+import State from "../../Models/State.js";
 
 export default async (req, res, next) => {
     try {
