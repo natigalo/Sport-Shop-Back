@@ -1,5 +1,5 @@
-import Cart from "../models/Cart.js";
-import Creator from "../models/Creator.js";
+import Cart from "../Models/Cart.js";
+import Creator from "../Models/Creator.js";
 
 export default async (req, res, next) => {
     try {
