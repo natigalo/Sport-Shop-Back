@@ -1,4 +1,4 @@
-import Creator from "../models/Creator.js";
+import Creator from "../Models/Creator.js";
 
 export default async (req, res, next) => {
     const existCreator = await Creator.findOne({ user_id: req.user._id });
